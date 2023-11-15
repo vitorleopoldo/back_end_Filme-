@@ -1,8 +1,5 @@
 # back_end_Filme-
 
-> ![Captura de tela 2023-11-15 153528](https://github.com/vitorleopoldo/back_end_Filme-/assets/91163817/fcdd7f46-b04d-4428-b0db-cd8be7ef00ad)
-
-
 > # Trabalho Realizado Na Materia Programação para web 2 
 
 <h2>Queridos alunos, vocês irão criar uma API utilizando as tecnologias estudadas nas aulas (nodejs, mongodb, jwt, etc). 
@@ -23,6 +20,19 @@ Nas aulas, estamos/estaremos construindo uma API de cadastro de livros e usuári
 * 1 CRUD completo: 10 pontos
 * 2 CRUDs completos: 20 pontos
 * 2 CRUDs completos + autenticação e autorização com JWT: 25 pontos
+
+> <h1> imagem a seguir </h1>
+* Foi implementado 4 CRUDs
+
+*  Post
+
+*  get
+
+*  delete
+
+*  put 
+
+> ![Captura de tela 2023-11-15 154144](https://github.com/vitorleopoldo/back_end_Filme-/assets/91163817/957ba856-8e31-4115-8499-d53267a61cfa)
 
 
 > <h1> Por exemplo: O aluno vai criar uma API backend de blogs: </h1>
